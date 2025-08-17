@@ -1,7 +1,8 @@
 🎤 Arduino Nano 33 BLE Sense - Voice-Controlled LED with Edge Impulse
 
-<img width="410" height="260" alt="image" src="https://github.com/user-attachments/assets/32add870-18a0-4b51-a934-33752d2ab136" />
-
+<p align="center">
+  <img width="410" height="260" alt="image" src="https://github.com/user-attachments/assets/32add870-18a0-4b51-a934-33752d2ab136" />
+</p>
 
 This project uses Edge Impulse to train and deploy a machine learning model on the Arduino Nano 33 BLE Sense.
 By recognizing spoken color names (in Spanish), the board controls its onboard RGB LEDs and changes their color accordingly.
