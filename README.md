@@ -64,7 +64,7 @@ By recognizing spoken color names (in Spanish), the board controls its onboard R
 | **Rojo**               | 🔴 Red                                  |
 | **Azul**               | 🔵 Blue                                 |
 | **Verde**              | 🟢 Green                                |
-| **Amarillo**           | 🟡 Yellow (Red + Green) *(when no sound)* |
+| **Amarillo**           | 🟡 Yellow (Red + Green) *(in the absence of sound)* |
 
 </div>
 
