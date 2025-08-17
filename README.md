@@ -67,7 +67,9 @@ By recognizing spoken color names (in Spanish), the board controls its onboard R
 | **Amarillo**           | 🟡 Yellow (Red + Green) *(when no sound)* |
 
 </div>
+
 ---
+
 
 ## Demo
 
@@ -77,12 +79,9 @@ By recognizing spoken color names (in Spanish), the board controls its onboard R
 
 
 
-
-
-
-https://github.com/user-attachments/assets/bf858112-76dc-42fc-85ab-d541c4a9e6e3
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bf858112-76dc-42fc-85ab-d541c4a9e6e3" alt="demo" />
+</p>
 
 
 
