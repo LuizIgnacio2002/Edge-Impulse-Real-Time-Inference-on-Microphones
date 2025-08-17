@@ -75,13 +75,13 @@ By recognizing spoken color names (in Spanish), the board controls its onboard R
 
 
 
+<div align="center">
 
 
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bf858112-76dc-42fc-85ab-d541c4a9e6e3" alt="demo" />
-</p>
+https://github.com/user-attachments/assets/dc8b5728-2696-4e36-b6ea-dcdccaee5443
 
 
+</div>
 
