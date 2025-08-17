@@ -57,6 +57,8 @@ By recognizing spoken color names (in Spanish), the board controls its onboard R
 2. The trained **Edge Impulse model** processes the audio and classifies which color was spoken.  
 3. The onboard RGB LED updates to the detected color:  
 
+<div align="center">
+
 | Spoken Word (Spanish) | LED Output                               |
 |------------------------|------------------------------------------|
 | **Rojo**               | 🔴 Red                                  |
@@ -64,4 +66,5 @@ By recognizing spoken color names (in Spanish), the board controls its onboard R
 | **Verde**              | 🟢 Green                                |
 | **Amarillo**           | 🟡 Yellow (Red + Green) *(when no sound)* |
 
+</div>
 ---
